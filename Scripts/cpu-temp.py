@@ -1,5 +1,5 @@
 # Script to show Raspberry Pi core Temperature
-# To add it to alias only add cputemp='python3 "routeToFile"/cpu-temp.py'
+# To add it to alias only add cputemp='python3 "routeToFile"/cpu-temp.py' to the file .bash_aliases on your home folder
 # StephanJ98
 
 import os
